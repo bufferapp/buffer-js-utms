@@ -1,4 +1,4 @@
-const utms = require('./utms')
+const utms = require('.')
 
 describe('utms', () => {
   describe('refreshUtms', () => {
