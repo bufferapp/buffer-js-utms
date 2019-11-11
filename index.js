@@ -59,7 +59,7 @@ function getTimeToLive() {
 }
 
 function setTimeToLive(hours) {
-  if (typeof hours === 'number' && hours >= 0) {
+  if (typeof hours === "number" && hours >= 0) {
     // store TTL in miliseconds
     ttl = hours * 60 * 60 * 1000
   }
