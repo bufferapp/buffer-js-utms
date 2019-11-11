@@ -1,0 +1,27 @@
+{
+  "name": "@bufferapp/utms",
+  "version": "1.0.0",
+  "description": "Extract UTMs from query parameters with a TTL",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bufferapp/buffer-js-utms.git"
+  },
+  "author": "Core Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bufferapp/buffer-js-utms/issues"
+  },
+  "homepage": "https://github.com/bufferapp/buffer-js-utms#readme",
+  "devDependencies": {
+    "eslint": "6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "jest": "^24.9.0",
+    "prettier": "1.19.1"
+  }
+}
