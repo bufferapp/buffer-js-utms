@@ -1,6 +1,6 @@
 {
   "name": "@bufferapp/utms",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Extract UTMs from query parameters with a TTL",
   "main": "index.js",
   "scripts": {
